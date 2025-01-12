@@ -1,4 +1,5 @@
 ## 🚀 Sobre mim
+- Web dev freelancer 
 - Estudante de Ciência da Computação na UNESP
 - Interessado em Machine Learning e Desenvolvimento Web
 ## Tecnologias
