@@ -11,12 +11,12 @@
 Welcome to my personal repository! <br/>
 Here you'll find a collection of my projects, experiments, and ideas. Feel free to explore and connect! 🤝
 
-## 👤 About Me: 
+## 👤 About Me
 - 🐹 **Backend Developer**
 - 🚀 Current Project: Building an **ERP SaaS**
 - 🎓 Education: **Computer Science** student at **UNESP** (São Paulo State University)
 
-## 🔥 My Stats:
+## 🔥 My Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gustavo-rmontes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
 </div>
