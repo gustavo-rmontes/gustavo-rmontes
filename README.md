@@ -1,7 +1,35 @@
-## Sobre mim
-- Dev Back-end Java
-- Graduando de Ciência da Computação na UNESP 
-## Tecnologias
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" width="200" />
+</p>
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-ribeiro-montes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "gustavoribeiromontes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+###
+
+<h1 align="center">Greetings! 👋</h1>
+
+## 👤 About Me: 
+- 🐹 **Backend Developer**
+- 🚀 Current Project: Building an **ERP SaaS**
+- 🎓 Education: **Computer Science** student at **UNESP** (São Paulo State University)
+
+## 🔥 My Stats:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gustavo-rmontes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+</div>
+
+
+### 💻 Languages
+[![My Skills](https://skillicons.dev/icons?i=go,python,javascript,css,html,)](https://skillicons.dev)
+
+### 📦 Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,django,)](https://skillicons.dev)
+
+### 🛢️ DB
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,)](https://skillicons.dev)
+
+### 🛠️ Tools
+[![My Skills](https://skillicons.dev/icons?i=postman,figma,)](https://skillicons.dev)
