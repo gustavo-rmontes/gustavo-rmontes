@@ -7,9 +7,9 @@
   <a href = "gustavoribeiromontes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-###
-
 <h1 align="center">Greetings! 👋</h1>
+Welcome to my personal repository! <br/>
+Here you'll find a collection of my projects, experiments, and ideas. Feel free to explore and connect! 🤝
 
 ## 👤 About Me: 
 - 🐹 **Backend Developer**
@@ -21,15 +21,11 @@
   <img src="https://streak-stats.demolab.com?user=gustavo-rmontes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
 </div>
 
+## 🛠️ Technologies
+<div align="center">
 
-### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=go,python,javascript,css,html,)](https://skillicons.dev)
+| Languages | Frameworks | DB | Tools |
+| :-------: | :---------: | :-: | :---: |
+| ![Go](https://skillicons.dev/icons?i=go) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=css) ![CSS](https://skillicons.dev/icons?i=css) ![HTML](https://skillicons.dev/icons?i=html) | ![React](https://skillicons.dev/icons?i=react) ![Django](https://skillicons.dev/icons?i=django) | ![Postgres](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma) |
 
-### 📦 Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,django,)](https://skillicons.dev)
-
-### 🛢️ DB
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,)](https://skillicons.dev)
-
-### 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=postman,figma,)](https://skillicons.dev)
+</div>
