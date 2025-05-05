@@ -14,7 +14,7 @@ Here you'll find a collection of my projects, experiments, and ideas. Feel free 
 ## 👤 About Me
 - 🐹 **Backend Developer**
 - 🚀 Current Project: Building an **ERP SaaS**
-- 🎓 Education: **Computer Science** student at **UNESP** (São Paulo State University)
+- 🎓 **Computer Science** student at **UNESP** (São Paulo State University)
 
 ## 🔥 My Stats
 <div align="center">
