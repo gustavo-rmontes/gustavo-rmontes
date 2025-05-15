@@ -9,10 +9,10 @@
 
 <h1 align="center">Greetings! 👋</h1>
 Welcome to my personal repository! <br/>
-Here you'll find a collection of my projects, experiments, and ideas. Feel free to explore and connect! 🤝
+Here you'll find a collection of my projects, experiments, and ideas.
 
 ## 👤 About Me
-- 🐹 **Backend Developer**
+- 🐹 **Developer**
 - 🎓 **Computer Science** student at **UNESP** (São Paulo State University)
 - 🚀 Current Project: Building an **ERP SaaS**
 
