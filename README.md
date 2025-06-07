@@ -26,6 +26,6 @@ Here you'll find a collection of my projects, experiments, and ideas.
 
 | Languages | Frameworks | DB | Tools |
 | :-------: | :---------: | :-: | :---: |
-| ![Go](https://skillicons.dev/icons?i=go) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) ![HTML](https://skillicons.dev/icons?i=html) | ![React](https://skillicons.dev/icons?i=react) ![Django](https://skillicons.dev/icons?i=django) | ![Postgres](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma) |
+| ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) ![HTML](https://skillicons.dev/icons?i=html) | ![React](https://skillicons.dev/icons?i=react) ![Django](https://skillicons.dev/icons?i=django) | ![Postgres](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma) |
 
 </div>
