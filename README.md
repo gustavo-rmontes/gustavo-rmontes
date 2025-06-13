@@ -8,8 +8,6 @@
 </div>
 
 <h1 align="center">Greetings! 👋</h1>
-Welcome to my personal repository! <br/>
-Here you'll find a collection of my projects, experiments, and ideas.
 
 ## 👤 About Me
 - 🧑‍💻 **Developer**
