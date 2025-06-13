@@ -15,11 +15,6 @@ Here you'll find a collection of my projects, experiments, and ideas.
 - 🧑‍💻 **Developer**
 - 🎓 **Computer Science** student at **UNESP** (São Paulo State University)
 
-## 🔥 My Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gustavo-rmontes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
-</div>
-
 ## 🛠️ Technologies
 <div align="center">
 
@@ -27,4 +22,9 @@ Here you'll find a collection of my projects, experiments, and ideas.
 | :-------: | :---------: | :-: | :---: |
 | ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) ![HTML](https://skillicons.dev/icons?i=html) | ![React](https://skillicons.dev/icons?i=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)| ![Postgres](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma) |
 
+</div>
+
+## 🔥 My Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gustavo-rmontes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
 </div>
