@@ -10,7 +10,7 @@
 <h1 align="center">Greetings! 👋</h1>
 
 ## 👤 About Me
-- 🧑‍💻 **Developer**
+- 🧑‍💻 **Developer** interested in backend development and machine learning.
 - 🎓 **Computer Science** student at **UNESP** (São Paulo State University)
 
 ## 🛠️ Technologies
